@@ -1,2 +1,2 @@
 # Neural_network_from_scratch
-This was an ambitious project where I tried to write a neural network from scratch. I had to brush up on some concepts on vector calculus to do so. Anyway writing this cleared up my doubts about backpropagation. In this project , I have used the famous MNIST dataset. I have achieved an accuracy of 95% (although I could have achieved more with some feature engineering)
+This was an ambitious project where I tried to write a neural network from scratch. I had to brush up on some concepts on vector calculus to do so. Anyway writing this cleared up my doubts about backpropagation. In this project , I have used the famous MNIST dataset. I have achieved an accuracy of 95% (although I could have achieved more with some feature engineering).
